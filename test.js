@@ -1,3 +1,7 @@
+// Making some changes and second commit
+
+
+
 import java.io.*;
 import java.util.*;
 
@@ -15,3 +19,4 @@ public class End_Of_File_Example{
         scanner.close();
     }
 }
+

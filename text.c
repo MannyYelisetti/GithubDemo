@@ -1,3 +1,6 @@
+// Making some changes and second commit
+
+
 #include <stdio.h> 
 
 int main() 

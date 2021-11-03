@@ -1,3 +1,7 @@
+# Making some changes and second commit
+
+
+
 # We will set the file name we want to read
 filename = "myfile.txt" 
 

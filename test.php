@@ -1,3 +1,6 @@
+// Making some changes and second commit
+
+
 <?php 
 
 // We will open the myfile.txt and set to variable $check 
